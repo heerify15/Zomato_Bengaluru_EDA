@@ -22,6 +22,7 @@ The objective is to transform raw restaurant data into meaningful business insig
 ## 📂 Dataset
 
 **Dataset:** Zomato Bengaluru Restaurants Dataset
+**Link:** https://www.kaggle.com/datasets/rajeshrampure/zomato-dataset/data
 
 The dataset contains information such as:
 
