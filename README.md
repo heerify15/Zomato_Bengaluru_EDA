@@ -139,14 +139,14 @@ The following data cleaning steps were performed:
 
 ## 📁 Project Structure
 
-Below is the layout of the repository and the naming conventions used for the Iris classification project:
+Below is the repository layout:
 
 ```text
 ├── Notebook/
 │   └── zomato.ipynb         # Complete code & EDA conclusions
 ├── Output/
 │   ├── filename.jpg         # Graphs
-└── README.md                             
+└── README.md                # Dataset & executive information        
 ```
 
 ---
