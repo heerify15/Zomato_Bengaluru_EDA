@@ -1,4 +1,4 @@
-# 🍽️ Zomato Bengaluru Restaurant Analysis
+# 🍽️ Zomato Bengaluru Restaurants & Trends Analysis
 
 ## 📌 Project Overview
 
