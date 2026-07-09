@@ -125,42 +125,6 @@ The following data cleaning steps were performed:
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repository
-
-```bash
-git clone <repository-url>
-```
-
-2. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-4. Open the analysis notebook and run all cells.
-
----
-
-## 📷 Sample Visualizations
-
-* Online Order Distribution
-* Table Booking vs Rating
-* Top-Rated Locations
-* Restaurant Type Distribution
-* Service Type Analysis
-* Famous Restaurant Chains
-* Cost Analysis
-
----
-
 ## 📚 Skills Demonstrated
 
 * Data Cleaning
@@ -170,6 +134,20 @@ jupyter notebook
 * Data Visualization
 * Business Insight Generation
 * Python Data Analytics
+
+---
+
+## 📁 Project Structure
+
+Below is the layout of the repository and the naming conventions used for the Iris classification project:
+
+```text
+├── Notebook/
+│   └── zomato.ipynb         # Complete code & EDA conclusions
+├── Output/
+│   ├── filename.jpg         # Graphs
+└── README.md                             
+```
 
 ---
 
